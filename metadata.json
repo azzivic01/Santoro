@@ -1,0 +1,7 @@
+{
+  "name": "SANTORO — Gelateria Romana dal 1958",
+  "description": "Old Roman artisan gelateria founded in 1958. Classical Rome, aristocratic hospitality, and slow artisan gelato in an old Roman palazzo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
